@@ -2,7 +2,7 @@ Python Learning Repository
 
 Welcome to the **Python Learning Repository**! 
 
-This repository is designed to help beginners and intermediate learners **grasp Python concepts effectively**. Here, you'll find **structured explanations, examples, and code snippets** covering essential Python topics. 🚀
+This repository is designed to help beginners and intermediate learners **grasp Python concepts effectively**. Here, you'll find **structured explanations, examples, and code snippets** covering essential Python topics. 
 
 ------------------------------------------------------------------
 Topics Covered
@@ -73,6 +73,6 @@ Topics Covered
 
 ----------------------------------------------------------------------------------------------
 🤝 Contribution
- If you find this repository useful and want to contribute, feel free to **fork it and submit a pull request**. Let's build an amazing Python learning hub together! 💡🔥
+ If you find this repository useful and want to contribute, feel free to **fork it and submit a pull request**. Let's build an amazing Python learning hub together! 
 
 
