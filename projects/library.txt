@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Python",
+        "author": "Zia Khan",
+        "year": "1997",
+        "genre": "Programming",
+        "read": true
+    }
+]
